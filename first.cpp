@@ -11,6 +11,6 @@ using namespace std;
 
 int32_t main()
 {
-    cout<<"HELLO GIT";
+    cout<<"HELLO GIT\n";
     return 0;
 }
